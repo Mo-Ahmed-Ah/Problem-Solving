@@ -10,14 +10,14 @@ Efficient solutions. Clean code. Continuous growth.
 <ul>
   <li>
     <strong>LeetCode</strong>
-    <ul>
+    <ol>
       <li>
         1.
         <a href="./leetcode/1. Two Sum/Program.cs">
            Two Sum – Program.cs
         </a>
       </li>
-    </ul>
+    </ol>
   </li>
   <li>
     <a href="https://github.com/your-username/problem-solving/blob/main/README.md">README.md</a>
