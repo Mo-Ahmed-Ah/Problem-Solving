@@ -12,7 +12,7 @@ Efficient solutions. Clean code. Continuous growth.
     <strong>LeetCode</strong>
     <ul>
       <li>
-        <a href="https://github.com/your-username/problem-solving/blob/main/leetcode/1.%20Two%20Sum/Program.cs">
+        <a href="./leetcode/1. Two Sum/Program.cs">
           1. Two Sum – Program.cs
         </a>
       </li>
