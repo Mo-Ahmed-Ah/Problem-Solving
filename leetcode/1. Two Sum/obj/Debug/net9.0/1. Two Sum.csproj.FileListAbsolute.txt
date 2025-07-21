@@ -1,0 +1,5 @@
+C:\Users\ahmoh\OneDrive\Desktop\Problem-Solving\leetcode\1. Two Sum\obj\Debug\net9.0\1. Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\OneDrive\Desktop\Problem-Solving\leetcode\1. Two Sum\obj\Debug\net9.0\1. Two Sum.AssemblyInfoInputs.cache
+C:\Users\ahmoh\OneDrive\Desktop\Problem-Solving\leetcode\1. Two Sum\obj\Debug\net9.0\1. Two Sum.AssemblyInfo.cs
+C:\Users\ahmoh\OneDrive\Desktop\Problem-Solving\leetcode\1. Two Sum\obj\Debug\net9.0\1. Two Sum.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\OneDrive\Desktop\Problem-Solving\leetcode\1. Two Sum\obj\Debug\net9.0\1. Two Sum.sourcelink.json
