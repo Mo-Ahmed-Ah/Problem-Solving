@@ -12,8 +12,9 @@ Efficient solutions. Clean code. Continuous growth.
     <strong>LeetCode</strong>
     <ul>
       <li>
+        1.
         <a href="./leetcode/1. Two Sum/Program.cs">
-          1. Two Sum – Program.cs
+           Two Sum – Program.cs
         </a>
       </li>
     </ul>
