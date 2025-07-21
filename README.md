@@ -8,6 +8,6 @@ Efficient solutions. Clean code. Continuous growth.
 ## 📦 problem-solving
   - leetcode
      1. Two Sum
-        1-[Program.cs](leetcode/leetcode/Program.cs)
+        1- [Program.cs](leetcode/leetcode/Program.cs)
    - README.md
 
