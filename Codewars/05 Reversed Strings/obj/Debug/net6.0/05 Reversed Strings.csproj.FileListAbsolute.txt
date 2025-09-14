@@ -1,0 +1,12 @@
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\bin\Debug\net6.0\05 Reversed Strings.deps.json
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\bin\Debug\net6.0\05 Reversed Strings.dll
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\bin\Debug\net6.0\05 Reversed Strings.pdb
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.AssemblyInfoInputs.cache
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.AssemblyInfo.cs
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.csproj.CoreCompileInputs.cache
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.sourcelink.json
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.dll
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\refint\05 Reversed Strings.dll
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.pdb
+D:\larne\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\ref\05 Reversed Strings.dll

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Test_All_Project</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\01 Simple Multiplication\01 Simple Multiplication.csproj" />
+    <ProjectReference Include="..\02 Century From Year\02 Century From Year.csproj" />
+    <ProjectReference Include="..\03 Is N Divisible By X And Y\03 Is N Divisible By X And Y.csproj" />
+    <ProjectReference Include="..\04 Even Or Odd\04 Even Or Odd.csproj" />
+    <ProjectReference Include="..\05 Reversed Strings\05 Reversed Strings.csproj" />
+    <ProjectReference Include="..\07 Price of Mangoes\07 Price of Mangoes.csproj" />
+  </ItemGroup>
+
+</Project>

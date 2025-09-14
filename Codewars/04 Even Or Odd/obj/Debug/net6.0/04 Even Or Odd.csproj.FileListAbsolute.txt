@@ -1,0 +1,12 @@
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\bin\Debug\net6.0\04 Even Or Odd.deps.json
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\bin\Debug\net6.0\04 Even Or Odd.dll
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\bin\Debug\net6.0\04 Even Or Odd.pdb
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.AssemblyInfoInputs.cache
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.AssemblyInfo.cs
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.csproj.CoreCompileInputs.cache
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.sourcelink.json
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.dll
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\refint\04 Even Or Odd.dll
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.pdb
+D:\larne\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\ref\04 Even Or Odd.dll

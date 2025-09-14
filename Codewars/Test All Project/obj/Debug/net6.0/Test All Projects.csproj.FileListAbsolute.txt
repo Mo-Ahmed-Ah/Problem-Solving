@@ -1,0 +1,29 @@
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.csproj.AssemblyReference.cache
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.AssemblyInfoInputs.cache
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.AssemblyInfo.cs
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.csproj.CoreCompileInputs.cache
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.sourcelink.json
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.exe
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.deps.json
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.runtimeconfig.json
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\04 Even Or Odd.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\04 Even Or Odd.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All.C9D250E2.Up2Date
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\refint\Test All Projects.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.genruntimeconfig.cache
+D:\larne\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\ref\Test All Projects.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\01 Simple Multiplication.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\02 Century From Year.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\03 Is N Divisible By X And Y.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\01 Simple Multiplication.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\02 Century From Year.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\03 Is N Divisible By X And Y.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\05 Reversed Strings.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\05 Reversed Strings.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\07 Price of Mangoes.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\07 Price of Mangoes.pdb

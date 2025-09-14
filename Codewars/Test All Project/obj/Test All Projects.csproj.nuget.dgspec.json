@@ -1,0 +1,482 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\larne\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj": {}
+  },
+  "projects": {
+    "D:\\larne\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj",
+        "projectName": "01 Simple Multiplication",
+        "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj",
+        "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
+        "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\01 Simple Multiplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\larne\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
+        "projectName": "02 Century From Year",
+        "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
+        "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
+        "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\02 Century From Year\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\larne\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
+        "projectName": "03 Is N Divisible By X And Y",
+        "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
+        "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
+        "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\larne\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj",
+        "projectName": "04 Even Or Odd",
+        "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj",
+        "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
+        "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\04 Even Or Odd\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\larne\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
+        "projectName": "05 Reversed Strings",
+        "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
+        "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
+        "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\05 Reversed Strings\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
+        "projectName": "07 Price of Mangoes",
+        "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
+        "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
+        "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\larne\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
+        "projectName": "Test All Projects",
+        "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
+        "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
+        "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\Test All Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\larne\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj": {
+                "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj"
+              },
+              "D:\\larne\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
+                "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj"
+              },
+              "D:\\larne\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj": {
+                "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj"
+              },
+              "D:\\larne\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj": {
+                "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj"
+              },
+              "D:\\larne\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj": {
+                "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj"
+              },
+              "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
+                "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
