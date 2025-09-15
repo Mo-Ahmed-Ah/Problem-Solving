@@ -1,12 +1,12 @@
-﻿
-
-using _01_Simple_Multiplication;
+﻿using _01_Simple_Multiplication;
 using _02_Century_From_Year;
 using _03_Is_N_Divisible_By_X_And_Y;
 using _04_Even_or_Odd;
 using _05_Reversed_Strings;
 using _07_Price_of_Mangoes;
-using System.ComponentModel;
+using _08_Cat_years__Dog_years;
+using _09_Invert_Values;
+
 
 namespace Test_All_Projects
 {
@@ -14,30 +14,10 @@ namespace Test_All_Projects
     {
         static void Main(string[] args)
         {
-            #region Simple Multiplication
-            //Console.WriteLine(SimpleMultiplication.Multiply(5));
-            #endregion
-
-            #region Is N Divisible By X And Y
-            //Console.WriteLine(IsNDivisibleByXAndY.IsDivisible(3, 1, 3));
-            #endregion
-
-            #region Century From Year
-            //Console.WriteLine(CenturyFromYear.СenturyFromYear(1705));
-            //Console.WriteLine(CenturyFromYear.СenturyFromYear(1900));
-            //Console.WriteLine(CenturyFromYear.СenturyFromYear(1601));
-            //Console.WriteLine(CenturyFromYear.СenturyFromYear(2000));
-            //Console.WriteLine(CenturyFromYear.СenturyFromYear(2742));
-            #endregion
-
-            #region Even or Odd
-            //Console.WriteLine(EvenOrOdd.EvenOrOddNumber(3));
-            //Console.WriteLine(EvenOrOdd.EvenOrOddNumber(2));
-            #endregion
-
             #region You can used this region to test all projects
             while (true)
             {
+                #region Menu
                 Console.Clear();
                 Console.WriteLine("01 : Simple Multiplication.");
                 Console.WriteLine("02 : Is N Divisible By X And Y.");
@@ -46,10 +26,19 @@ namespace Test_All_Projects
                 Console.WriteLine("05 : Reversed Strings.");
                 Console.WriteLine("06 : Convert a boolean to a string");
                 Console.WriteLine("07 : Price Of Mangoes.");
-                Console.Write("Enter project number (01-04) or 'exit' to quit: ");
-                string input = Console.ReadLine();
-                int.TryParse(input, out var intputNumber);
+                Console.WriteLine("08 : Cat years, Dog years.");
+                Console.WriteLine("09 : Arrays Inversion.");
+                Console.Write("Enter project number (01-09) or 'exit' to quit: ");
+                #endregion
 
+                #region Input and Validation 
+                string input = Console.ReadLine();
+                if (input.ToLower() == "exit")
+                    break;
+                int.TryParse(input, out var intputNumber);
+                #endregion
+                
+                #region Switch Case
                 switch (intputNumber)
                 {
                     case 01:
@@ -174,12 +163,51 @@ namespace Test_All_Projects
                             }
                         }
                         break;
+                    case 08:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter the human years to convert to cat and dog years: ");
+                            if (int.TryParse(Console.ReadLine(), out var humanYears))
+                            {
+                                var result = CatYearsDogYears.humanYearsCatYearsDogYears(humanYears);
+                                Console.WriteLine($"Human Years: {result[0]}, Cat Years: {result[1]}, Dog Years: {result[2]}");
+                                break;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Invalid input. Please enter a valid integer for human years.");
+                            }
+                        }
+                        break;
+                    case 09:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter integers separated by spaces to invert their values: ");
+                            var inputArray = Console.ReadLine().Split(' ');
+                            try
+                            {
+                                int[] numbers = Array.ConvertAll(inputArray, int.Parse);
+                                var invertedArray = InvertValues.ArraysInversion(numbers);
+                                Console.WriteLine("Inverted values: " + string.Join(", ", invertedArray));
+                                break;
+                            }
+                            catch
+                            {
+                                Console.WriteLine("Invalid input. Please enter valid integers separated by spaces.");
+                            }
+                        }
+                        break;
                     default: break;
                 }
+                #endregion
 
+                #region Repeat or Exit
                 Console.Write("Enter Yes if you want used agaen : ");
                 if (Console.ReadLine().ToLower() != "yes")
                     return;
+                #endregion
             }
             #endregion
         }

@@ -27,3 +27,7 @@ D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\05 Reversed 
 D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\05 Reversed Strings.pdb
 D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\07 Price of Mangoes.dll
 D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\07 Price of Mangoes.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\08 Cat years, Dog years.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\08 Cat years, Dog years.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\09 Invert Values.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\09 Invert Values.pdb

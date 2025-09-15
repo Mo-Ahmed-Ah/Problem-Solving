@@ -61,6 +61,26 @@
         "runtime": {
           "bin/placeholder/07 Price of Mangoes.dll": {}
         }
+      },
+      "08 Cat years, Dog years/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/08 Cat years, Dog years.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/08 Cat years, Dog years.dll": {}
+        }
+      },
+      "09 Invert Values/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/09 Invert Values.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/09 Invert Values.dll": {}
+        }
       }
     }
   },
@@ -94,6 +114,16 @@
       "type": "project",
       "path": "../07 Price of Mangoes/07 Price of Mangoes.csproj",
       "msbuildProject": "../07 Price of Mangoes/07 Price of Mangoes.csproj"
+    },
+    "08 Cat years, Dog years/1.0.0": {
+      "type": "project",
+      "path": "../08 Cat years, Dog years/08 Cat years, Dog years.csproj",
+      "msbuildProject": "../08 Cat years, Dog years/08 Cat years, Dog years.csproj"
+    },
+    "09 Invert Values/1.0.0": {
+      "type": "project",
+      "path": "../09 Invert Values/09 Invert Values.csproj",
+      "msbuildProject": "../09 Invert Values/09 Invert Values.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -103,7 +133,9 @@
       "03 Is N Divisible By X And Y >= 1.0.0",
       "04 Even Or Odd >= 1.0.0",
       "05 Reversed Strings >= 1.0.0",
-      "07 Price of Mangoes >= 1.0.0"
+      "07 Price of Mangoes >= 1.0.0",
+      "08 Cat years, Dog years >= 1.0.0",
+      "09 Invert Values >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -155,6 +187,12 @@
             },
             "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
               "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj"
+            },
+            "D:\\larne\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {
+              "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj"
+            },
+            "D:\\larne\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
+              "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj"
             }
           }
         }

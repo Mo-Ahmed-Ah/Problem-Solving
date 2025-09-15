@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07 Price of Mangoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f45952c310f1842c07e2172a176bd14b760fb9fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8b29da18aa13d39d8f137cb549e568e86ea5061")]
 [assembly: System.Reflection.AssemblyProductAttribute("07 Price of Mangoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07 Price of Mangoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,12 @@
+D:\larne\Problem-Solving\Codewars\09 Invert Values\bin\Debug\net6.0\09 Invert Values.deps.json
+D:\larne\Problem-Solving\Codewars\09 Invert Values\bin\Debug\net6.0\09 Invert Values.dll
+D:\larne\Problem-Solving\Codewars\09 Invert Values\bin\Debug\net6.0\09 Invert Values.pdb
+D:\larne\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.GeneratedMSBuildEditorConfig.editorconfig
+D:\larne\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.AssemblyInfoInputs.cache
+D:\larne\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.AssemblyInfo.cs
+D:\larne\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.csproj.CoreCompileInputs.cache
+D:\larne\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.sourcelink.json
+D:\larne\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.dll
+D:\larne\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\refint\09 Invert Values.dll
+D:\larne\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.pdb
+D:\larne\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\ref\09 Invert Values.dll

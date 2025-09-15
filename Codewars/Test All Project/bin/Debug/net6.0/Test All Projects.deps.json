@@ -58,6 +58,22 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "08 Cat years, Dog years/1.0.0": {
+        "runtime": {
+          "08 Cat years, Dog years.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "09 Invert Values/1.0.0": {
+        "runtime": {
+          "09 Invert Values.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -93,6 +109,16 @@
       "sha512": ""
     },
     "07 Price of Mangoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "08 Cat years, Dog years/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "09 Invert Values/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

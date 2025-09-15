@@ -15,6 +15,8 @@
     <ProjectReference Include="..\04 Even Or Odd\04 Even Or Odd.csproj" />
     <ProjectReference Include="..\05 Reversed Strings\05 Reversed Strings.csproj" />
     <ProjectReference Include="..\07 Price of Mangoes\07 Price of Mangoes.csproj" />
+    <ProjectReference Include="..\08 Cat years, Dog years\08 Cat years, Dog years.csproj" />
+    <ProjectReference Include="..\09 Invert Values\09 Invert Values.csproj" />
   </ItemGroup>
 
 </Project>
