@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 Cat years, Dog years", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 Invert Values", "09 Invert Values\09 Invert Values.csproj", "{3EF74097-D9D4-466E-A1F8-0656637EAE84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 Remove exclamation marks", "10 Remove exclamation marks\10 Remove exclamation marks.csproj", "{24F9E17B-A429-442E-B531-CA5E5D52FA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 Find Maximum and Minimum Values of a List", "11 Find Maximum and Minimum Values of a List\11 Find Maximum and Minimum Values of a List.csproj", "{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{3EF74097-D9D4-466E-A1F8-0656637EAE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EF74097-D9D4-466E-A1F8-0656637EAE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EF74097-D9D4-466E-A1F8-0656637EAE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F9E17B-A429-442E-B531-CA5E5D52FA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F9E17B-A429-442E-B531-CA5E5D52FA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F9E17B-A429-442E-B531-CA5E5D52FA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F9E17B-A429-442E-B531-CA5E5D52FA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

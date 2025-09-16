@@ -81,6 +81,26 @@
         "runtime": {
           "bin/placeholder/09 Invert Values.dll": {}
         }
+      },
+      "10 Remove exclamation marks/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/10 Remove exclamation marks.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/10 Remove exclamation marks.dll": {}
+        }
+      },
+      "11 Find Maximum and Minimum Values of a List/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/11 Find Maximum and Minimum Values of a List.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/11 Find Maximum and Minimum Values of a List.dll": {}
+        }
       }
     }
   },
@@ -124,6 +144,16 @@
       "type": "project",
       "path": "../09 Invert Values/09 Invert Values.csproj",
       "msbuildProject": "../09 Invert Values/09 Invert Values.csproj"
+    },
+    "10 Remove exclamation marks/1.0.0": {
+      "type": "project",
+      "path": "../10 Remove exclamation marks/10 Remove exclamation marks.csproj",
+      "msbuildProject": "../10 Remove exclamation marks/10 Remove exclamation marks.csproj"
+    },
+    "11 Find Maximum and Minimum Values of a List/1.0.0": {
+      "type": "project",
+      "path": "../11 Find Maximum and Minimum Values of a List/11 Find Maximum and Minimum Values of a List.csproj",
+      "msbuildProject": "../11 Find Maximum and Minimum Values of a List/11 Find Maximum and Minimum Values of a List.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -135,7 +165,9 @@
       "05 Reversed Strings >= 1.0.0",
       "07 Price of Mangoes >= 1.0.0",
       "08 Cat years, Dog years >= 1.0.0",
-      "09 Invert Values >= 1.0.0"
+      "09 Invert Values >= 1.0.0",
+      "10 Remove exclamation marks >= 1.0.0",
+      "11 Find Maximum and Minimum Values of a List >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -193,6 +225,12 @@
             },
             "D:\\larne\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
               "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj"
+            },
+            "D:\\larne\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {
+              "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj"
+            },
+            "D:\\larne\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj": {
+              "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj"
             }
           }
         }

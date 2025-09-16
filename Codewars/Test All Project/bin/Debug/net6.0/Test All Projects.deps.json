@@ -74,6 +74,22 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "10 Remove exclamation marks/1.0.0": {
+        "runtime": {
+          "10 Remove exclamation marks.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "11 Find Maximum and Minimum Values of a List/1.0.0": {
+        "runtime": {
+          "11 Find Maximum and Minimum Values of a List.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -119,6 +135,16 @@
       "sha512": ""
     },
     "09 Invert Values/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "10 Remove exclamation marks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "11 Find Maximum and Minimum Values of a List/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

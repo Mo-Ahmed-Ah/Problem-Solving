@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\larne\\Problem-Solving\\Codewars\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}|11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj|d:\\larne\\problem-solving\\codewars\\11 find maximum and minimum values of a list\\findmaximumandminimumvaluesofalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}|11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj|solutionrelative:11 find maximum and minimum values of a list\\findmaximumandminimumvaluesofalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70EBA15A-EEBE-4B2B-A14C-39B20AEF365A}|Test All Project\\Test All Projects.csproj|d:\\larne\\problem-solving\\codewars\\test all project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70EBA15A-EEBE-4B2B-A14C-39B20AEF365A}|Test All Project\\Test All Projects.csproj|solutionrelative:test all project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EF74097-D9D4-466E-A1F8-0656637EAE84}|09 Invert Values\\09 Invert Values.csproj|d:\\larne\\problem-solving\\codewars\\09 invert values\\invertvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EF74097-D9D4-466E-A1F8-0656637EAE84}|09 Invert Values\\09 Invert Values.csproj|solutionrelative:09 invert values\\invertvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24F9E17B-A429-442E-B531-CA5E5D52FA2C}|10 Remove exclamation marks\\10 Remove exclamation marks.csproj|d:\\larne\\problem-solving\\codewars\\10 remove exclamation marks\\removeexclamationmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F9E17B-A429-442E-B531-CA5E5D52FA2C}|10 Remove exclamation marks\\10 Remove exclamation marks.csproj|solutionrelative:10 remove exclamation marks\\removeexclamationmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FD46A9B-57EB-446B-B4F7-46E72056783D}|08 Cat years, Dog years\\08 Cat years, Dog years.csproj|d:\\larne\\problem-solving\\codewars\\08 cat years, dog years\\catyearsdogyears.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +38,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InvertValues.cs",
-              "DocumentMoniker": "D:\\larne\\Problem-Solving\\Codewars\\09 Invert Values\\InvertValues.cs",
-              "RelativeDocumentMoniker": "09 Invert Values\\InvertValues.cs",
-              "ToolTip": "D:\\larne\\Problem-Solving\\Codewars\\09 Invert Values\\InvertValues.cs",
-              "RelativeToolTip": "09 Invert Values\\InvertValues.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FindMaximumAndMinimumValuesOfAList.cs",
+              "DocumentMoniker": "D:\\larne\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\FindMaximumAndMinimumValuesOfAList.cs",
+              "RelativeDocumentMoniker": "11 Find Maximum and Minimum Values of a List\\FindMaximumAndMinimumValuesOfAList.cs",
+              "ToolTip": "D:\\larne\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\FindMaximumAndMinimumValuesOfAList.cs",
+              "RelativeToolTip": "11 Find Maximum and Minimum Values of a List\\FindMaximumAndMinimumValuesOfAList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T03:55:39.832Z",
+              "WhenOpened": "2025-09-16T05:16:43.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "RemoveExclamationMarks.cs",
+              "DocumentMoniker": "D:\\larne\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\RemoveExclamationMarks.cs",
+              "RelativeDocumentMoniker": "10 Remove exclamation marks\\RemoveExclamationMarks.cs",
+              "ToolTip": "D:\\larne\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\RemoveExclamationMarks.cs",
+              "RelativeToolTip": "10 Remove exclamation marks\\RemoveExclamationMarks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T04:58:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\larne\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
               "RelativeDocumentMoniker": "Test All Project\\Program.cs",
               "ToolTip": "D:\\larne\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
               "RelativeToolTip": "Test All Project\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwNgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAwwOcAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T03:48:09.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CatYearsDogYears.cs",
               "DocumentMoniker": "D:\\larne\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\CatYearsDogYears.cs",
               "RelativeDocumentMoniker": "08 Cat years, Dog years\\CatYearsDogYears.cs",

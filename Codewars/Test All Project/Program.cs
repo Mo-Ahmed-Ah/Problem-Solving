@@ -6,6 +6,8 @@ using _05_Reversed_Strings;
 using _07_Price_of_Mangoes;
 using _08_Cat_years__Dog_years;
 using _09_Invert_Values;
+using _10_Remove_exclamation_marks;
+using _11_Find_Maximum_and_Minimum_Values_of_a_List;
 
 
 namespace Test_All_Projects
@@ -28,7 +30,9 @@ namespace Test_All_Projects
                 Console.WriteLine("07 : Price Of Mangoes.");
                 Console.WriteLine("08 : Cat years, Dog years.");
                 Console.WriteLine("09 : Arrays Inversion.");
-                Console.Write("Enter project number (01-09) or 'exit' to quit: ");
+                Console.WriteLine("10 : Remove exclamation marks.");
+                Console.WriteLine("11 : Find Maximum and Minimum Values of a List.");
+                Console.Write("Enter project number (01-11) or 'exit' to quit: ");
                 #endregion
 
                 #region Input and Validation 
@@ -191,6 +195,41 @@ namespace Test_All_Projects
                                 int[] numbers = Array.ConvertAll(inputArray, int.Parse);
                                 var invertedArray = InvertValues.ArraysInversion(numbers);
                                 Console.WriteLine("Inverted values: " + string.Join(", ", invertedArray));
+                                break;
+                            }
+                            catch
+                            {
+                                Console.WriteLine("Invalid input. Please enter valid integers separated by spaces.");
+                            }
+                        }
+                        break;
+                    case 10:
+                        while (true)
+                            { 
+                            Console.Clear();
+                                Console.Write("Enter the String : ");
+                                string str = Console.ReadLine();
+                                if (str is not null)
+                                {
+                                    Console.WriteLine($"The {str} after removing exclamation marks is: {RemoveExclamationMarks.RemoveExclamationMark(str)}");
+                                    break;
+                                }
+                                else
+                                {
+                                    Console.WriteLine("Invalid input. Please enter a valid integer.");
+                            }
+                        }
+                        break;
+                    case 11:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter integers separated by spaces to find the maximum and minimum values: ");
+                            var inputArray = Console.ReadLine().Split(' ');
+                            try
+                            {
+                                int[] numbers = Array.ConvertAll(inputArray, int.Parse);
+                                Console.WriteLine($"Minimum value: {FindMaximumAndMinimumValuesOfAList.Min((int[])numbers.Clone())}, Maximum value: {FindMaximumAndMinimumValuesOfAList.Max((int[])numbers.Clone())}");
                                 break;
                             }
                             catch

@@ -17,6 +17,8 @@
     <ProjectReference Include="..\07 Price of Mangoes\07 Price of Mangoes.csproj" />
     <ProjectReference Include="..\08 Cat years, Dog years\08 Cat years, Dog years.csproj" />
     <ProjectReference Include="..\09 Invert Values\09 Invert Values.csproj" />
+    <ProjectReference Include="..\10 Remove exclamation marks\10 Remove exclamation marks.csproj" />
+    <ProjectReference Include="..\11 Find Maximum and Minimum Values of a List\11 Find Maximum and Minimum Values of a List.csproj" />
   </ItemGroup>
 
 </Project>

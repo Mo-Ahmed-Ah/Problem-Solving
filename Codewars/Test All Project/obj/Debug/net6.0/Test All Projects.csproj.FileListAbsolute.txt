@@ -31,3 +31,7 @@ D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\08 Cat years
 D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\08 Cat years, Dog years.pdb
 D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\09 Invert Values.dll
 D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\09 Invert Values.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\10 Remove exclamation marks.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\11 Find Maximum and Minimum Values of a List.dll
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\10 Remove exclamation marks.pdb
+D:\larne\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\11 Find Maximum and Minimum Values of a List.pdb
