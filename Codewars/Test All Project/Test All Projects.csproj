@@ -19,6 +19,8 @@
     <ProjectReference Include="..\09 Invert Values\09 Invert Values.csproj" />
     <ProjectReference Include="..\10 Remove exclamation marks\10 Remove exclamation marks.csproj" />
     <ProjectReference Include="..\11 Find Maximum and Minimum Values of a List\11 Find Maximum and Minimum Values of a List.csproj" />
+    <ProjectReference Include="..\12 Multiply\12 Multiply.csproj" />
+    <ProjectReference Include="..\13 Keep Hydrated\13 Keep Hydrated.csproj" />
   </ItemGroup>
 
 </Project>

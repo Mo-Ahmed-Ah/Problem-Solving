@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {}
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {}
   },
   "projects": {
-    "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
+        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
         "projectName": "07 Price of Mangoes",
-        "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
+        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\07 Price of Mangoes\\obj\\",
+        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

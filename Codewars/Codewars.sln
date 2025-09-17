@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 Remove exclamation marks
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 Find Maximum and Minimum Values of a List", "11 Find Maximum and Minimum Values of a List\11 Find Maximum and Minimum Values of a List.csproj", "{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 Multiply", "12 Multiply\12 Multiply.csproj", "{DA476505-D36F-4B85-A933-B845324BF010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 Keep Hydrated", "13 Keep Hydrated\13 Keep Hydrated.csproj", "{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D612ADA-F051-4A08-8B8F-2E50D78E1C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA476505-D36F-4B85-A933-B845324BF010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA476505-D36F-4B85-A933-B845324BF010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA476505-D36F-4B85-A933-B845324BF010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA476505-D36F-4B85-A933-B845324BF010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

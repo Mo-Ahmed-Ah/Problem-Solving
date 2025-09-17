@@ -8,6 +8,8 @@ using _08_Cat_years__Dog_years;
 using _09_Invert_Values;
 using _10_Remove_exclamation_marks;
 using _11_Find_Maximum_and_Minimum_Values_of_a_List;
+using _12_Multiply;
+using _13_Keep_Hydrated;
 
 
 namespace Test_All_Projects
@@ -32,7 +34,9 @@ namespace Test_All_Projects
                 Console.WriteLine("09 : Arrays Inversion.");
                 Console.WriteLine("10 : Remove exclamation marks.");
                 Console.WriteLine("11 : Find Maximum and Minimum Values of a List.");
-                Console.Write("Enter project number (01-11) or 'exit' to quit: ");
+                Console.WriteLine("12 : Multiply.");
+                Console.WriteLine("13 : Calculate what do you want to drink Litres of water");
+                Console.Write("Enter project number (01-13) or 'exit' to quit: ");
                 #endregion
 
                 #region Input and Validation 
@@ -221,6 +225,7 @@ namespace Test_All_Projects
                         }
                         break;
                     case 11:
+
                         while (true)
                         {
                             Console.Clear();
@@ -235,6 +240,41 @@ namespace Test_All_Projects
                             catch
                             {
                                 Console.WriteLine("Invalid input. Please enter valid integers separated by spaces.");
+                            }
+                        }
+                        break;
+                    case 12:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter two numbers separated by space to multiply: ");
+                            var inputs = Console.ReadLine().Split(' ');
+                            if (inputs.Length == 2 &&
+                                int.TryParse(inputs[0], out var a) &&
+                                int.TryParse(inputs[1], out var b))
+                            {
+                                Console.WriteLine($"Result: {Multiply.multiply(a, b)}");
+                                break;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Invalid input. Please enter two valid numbers.");
+                            }
+                        }
+                        break;
+                    case 13:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter the time in hours you spend on exercise per day: ");
+                            if (double.TryParse(Console.ReadLine(), out var time))
+                            {
+                                Console.WriteLine($"You need to drink {KeepHydrated.Litres(time)} litres of water.");
+                                break;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Invalid input. Please enter a valid number for time.");
                             }
                         }
                         break;

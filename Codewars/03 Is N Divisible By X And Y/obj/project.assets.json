@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
+      "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
       "projectName": "03 Is N Divisible By X And Y",
-      "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
+      "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
       "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-      "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\obj\\",
+      "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

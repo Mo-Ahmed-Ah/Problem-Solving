@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\larne\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {}
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {}
   },
   "projects": {
-    "D:\\larne\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj",
+        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj",
         "projectName": "10 Remove exclamation marks",
-        "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj",
+        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\obj\\",
+        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

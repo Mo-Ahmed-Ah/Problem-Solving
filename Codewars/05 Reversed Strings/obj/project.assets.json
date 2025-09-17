@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\larne\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
+      "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
       "projectName": "05 Reversed Strings",
-      "projectPath": "D:\\larne\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
+      "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
       "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-      "outputPath": "D:\\larne\\Problem-Solving\\Codewars\\05 Reversed Strings\\obj\\",
+      "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
