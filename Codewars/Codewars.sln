@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 Multiply", "12 Multiply\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 Keep Hydrated", "13 Keep Hydrated\13 Keep Hydrated.csproj", "{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 Beginner Reduce but Grow", "14 Beginner Reduce but Grow\14 Beginner Reduce but Grow.csproj", "{2E2B017F-336D-43F6-9D5C-5CB750B47364}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2B017F-336D-43F6-9D5C-5CB750B47364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2B017F-336D-43F6-9D5C-5CB750B47364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2B017F-336D-43F6-9D5C-5CB750B47364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2B017F-336D-43F6-9D5C-5CB750B47364}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

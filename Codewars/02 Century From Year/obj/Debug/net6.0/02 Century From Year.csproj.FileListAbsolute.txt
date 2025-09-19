@@ -10,3 +10,15 @@ D:\larne\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Centu
 D:\larne\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\refint\02 Century From Year.dll
 D:\larne\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.pdb
 D:\larne\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\ref\02 Century From Year.dll
+G:\Problem-Solving\Codewars\02 Century From Year\bin\Debug\net6.0\02 Century From Year.deps.json
+G:\Problem-Solving\Codewars\02 Century From Year\bin\Debug\net6.0\02 Century From Year.dll
+G:\Problem-Solving\Codewars\02 Century From Year\bin\Debug\net6.0\02 Century From Year.pdb
+G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.AssemblyInfoInputs.cache
+G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.AssemblyInfo.cs
+G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.csproj.CoreCompileInputs.cache
+G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.sourcelink.json
+G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.dll
+G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\refint\02 Century From Year.dll
+G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.pdb
+G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\ref\02 Century From Year.dll

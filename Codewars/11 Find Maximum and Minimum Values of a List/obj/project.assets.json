@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj",
+      "projectUniqueName": "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj",
       "projectName": "11 Find Maximum and Minimum Values of a List",
-      "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj",
+      "projectPath": "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj",
       "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\obj\\",
+      "outputPath": "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

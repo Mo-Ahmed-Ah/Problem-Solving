@@ -21,6 +21,7 @@
     <ProjectReference Include="..\11 Find Maximum and Minimum Values of a List\11 Find Maximum and Minimum Values of a List.csproj" />
     <ProjectReference Include="..\12 Multiply\12 Multiply.csproj" />
     <ProjectReference Include="..\13 Keep Hydrated\13 Keep Hydrated.csproj" />
+    <ProjectReference Include="..\14 Beginner Reduce but Grow\14 Beginner Reduce but Grow.csproj" />
   </ItemGroup>
 
 </Project>

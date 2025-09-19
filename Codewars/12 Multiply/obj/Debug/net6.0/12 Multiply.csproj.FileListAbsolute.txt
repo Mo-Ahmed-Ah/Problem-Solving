@@ -1,0 +1,12 @@
+G:\Problem-Solving\Codewars\12 Multiply\bin\Debug\net6.0\12 Multiply.deps.json
+G:\Problem-Solving\Codewars\12 Multiply\bin\Debug\net6.0\12 Multiply.dll
+G:\Problem-Solving\Codewars\12 Multiply\bin\Debug\net6.0\12 Multiply.pdb
+G:\Problem-Solving\Codewars\12 Multiply\obj\Debug\net6.0\12 Multiply.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem-Solving\Codewars\12 Multiply\obj\Debug\net6.0\12 Multiply.AssemblyInfoInputs.cache
+G:\Problem-Solving\Codewars\12 Multiply\obj\Debug\net6.0\12 Multiply.AssemblyInfo.cs
+G:\Problem-Solving\Codewars\12 Multiply\obj\Debug\net6.0\12 Multiply.csproj.CoreCompileInputs.cache
+G:\Problem-Solving\Codewars\12 Multiply\obj\Debug\net6.0\12 Multiply.sourcelink.json
+G:\Problem-Solving\Codewars\12 Multiply\obj\Debug\net6.0\12 Multiply.dll
+G:\Problem-Solving\Codewars\12 Multiply\obj\Debug\net6.0\refint\12 Multiply.dll
+G:\Problem-Solving\Codewars\12 Multiply\obj\Debug\net6.0\12 Multiply.pdb
+G:\Problem-Solving\Codewars\12 Multiply\obj\Debug\net6.0\ref\12 Multiply.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj": {}
+    "G:\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj": {
+    "G:\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj",
         "projectName": "01 Simple Multiplication",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\01 Simple Multiplication\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\01 Simple Multiplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
+    "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
         "projectName": "02 Century From Year",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\02 Century From Year\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj": {
+    "G:\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
         "projectName": "03 Is N Divisible By X And Y",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj": {
+    "G:\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj",
         "projectName": "04 Even Or Odd",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\04 Even Or Odd\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\04 Even Or Odd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,14 +264,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj": {
+    "G:\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
         "projectName": "05 Reversed Strings",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\05 Reversed Strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -329,14 +329,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
+    "G:\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
         "projectName": "07 Price of Mangoes",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\07 Price of Mangoes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -394,14 +394,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {
+    "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj",
         "projectName": "08 Cat years, Dog years",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -459,14 +459,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
+    "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj",
         "projectName": "09 Invert Values",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\09 Invert Values\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -524,14 +524,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {
+    "G:\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj",
         "projectName": "10 Remove exclamation marks",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -589,14 +589,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj": {
+    "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj",
         "projectName": "11 Find Maximum and Minimum Values of a List",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -654,14 +654,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj": {
+    "G:\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj",
         "projectName": "12 Multiply",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\12 Multiply\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\12 Multiply\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -719,14 +719,14 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj": {
+    "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj",
         "projectName": "13 Keep Hydrated",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -784,14 +784,79 @@
         }
       }
     },
-    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj": {
+    "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
-        "projectName": "Test All Projects",
-        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj",
+        "projectName": "14 Beginner Reduce but Grow",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\obj\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
+        "projectName": "Test All Projects",
+        "projectPath": "G:\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
+        "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
+        "outputPath": "G:\\Problem-Solving\\Codewars\\Test All Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -812,41 +877,44 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj"
+              "G:\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj"
+              "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj"
+              "G:\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj"
+              "G:\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj"
+              "G:\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj"
+              "G:\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj"
+              "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj"
+              "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj"
+              "G:\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj"
+              "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj"
+              "G:\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj"
               },
-              "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj": {
-                "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj"
+              "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj"
+              },
+              "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj": {
+                "projectPath": "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj"
               }
             }
           }

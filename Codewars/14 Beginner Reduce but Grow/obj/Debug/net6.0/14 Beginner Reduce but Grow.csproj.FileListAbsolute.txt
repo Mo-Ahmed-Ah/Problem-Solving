@@ -1,0 +1,12 @@
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\bin\Debug\net6.0\14 Beginner Reduce but Grow.deps.json
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\bin\Debug\net6.0\14 Beginner Reduce but Grow.dll
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\bin\Debug\net6.0\14 Beginner Reduce but Grow.pdb
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.AssemblyInfoInputs.cache
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.AssemblyInfo.cs
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.csproj.CoreCompileInputs.cache
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.sourcelink.json
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.dll
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\refint\14 Beginner Reduce but Grow.dll
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.pdb
+G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\ref\14 Beginner Reduce but Grow.dll

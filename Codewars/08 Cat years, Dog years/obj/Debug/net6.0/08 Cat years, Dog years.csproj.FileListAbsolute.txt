@@ -10,3 +10,15 @@ D:\larne\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\08 Ca
 D:\larne\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\refint\08 Cat years, Dog years.dll
 D:\larne\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\08 Cat years, Dog years.pdb
 D:\larne\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\ref\08 Cat years, Dog years.dll
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\bin\Debug\net6.0\08 Cat years, Dog years.deps.json
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\bin\Debug\net6.0\08 Cat years, Dog years.dll
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\bin\Debug\net6.0\08 Cat years, Dog years.pdb
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\08 Cat years, Dog years.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\08 Cat years, Dog years.AssemblyInfoInputs.cache
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\08 Cat years, Dog years.AssemblyInfo.cs
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\08 Cat years, Dog years.csproj.CoreCompileInputs.cache
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\08 Cat years, Dog years.sourcelink.json
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\08 Cat years, Dog years.dll
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\refint\08 Cat years, Dog years.dll
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\08 Cat years, Dog years.pdb
+G:\Problem-Solving\Codewars\08 Cat years, Dog years\obj\Debug\net6.0\ref\08 Cat years, Dog years.dll

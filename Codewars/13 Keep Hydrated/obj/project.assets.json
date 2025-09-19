@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj",
+      "projectUniqueName": "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj",
       "projectName": "13 Keep Hydrated",
-      "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj",
+      "projectPath": "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj",
       "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\obj\\",
+      "outputPath": "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

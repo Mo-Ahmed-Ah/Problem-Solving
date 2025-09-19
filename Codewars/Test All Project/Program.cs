@@ -10,6 +10,7 @@ using _10_Remove_exclamation_marks;
 using _11_Find_Maximum_and_Minimum_Values_of_a_List;
 using _12_Multiply;
 using _13_Keep_Hydrated;
+using _14_Beginner_Reduce_but_Grow;
 
 
 namespace Test_All_Projects
@@ -36,7 +37,8 @@ namespace Test_All_Projects
                 Console.WriteLine("11 : Find Maximum and Minimum Values of a List.");
                 Console.WriteLine("12 : Multiply.");
                 Console.WriteLine("13 : Calculate what do you want to drink Litres of water");
-                Console.Write("Enter project number (01-13) or 'exit' to quit: ");
+                Console.WriteLine("14 : Calculate multiplication of array items");
+                Console.Write("Enter project number (01-14) or 'exit' to quit: ");
                 #endregion
 
                 #region Input and Validation 
@@ -275,6 +277,24 @@ namespace Test_All_Projects
                             else
                             {
                                 Console.WriteLine("Invalid input. Please enter a valid number for time.");
+                            }
+                        }
+                        break;
+                    case 14:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter integers separated by spaces to calculate the multiplication of all items: ");
+                            var inputArray = Console.ReadLine().Split(' ');
+                            try
+                            {
+                                int[] numbers = Array.ConvertAll(inputArray, int.Parse);
+                                Console.WriteLine($"The multiplication of all items is: {BeginnerReducebutGrow.Grow(numbers)}");
+                                break;
+                            }
+                            catch
+                            {
+                                Console.WriteLine("Invalid input. Please enter valid integers separated by spaces.");
                             }
                         }
                         break;

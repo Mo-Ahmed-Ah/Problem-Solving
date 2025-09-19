@@ -90,6 +90,30 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "12 Multiply/1.0.0": {
+        "runtime": {
+          "12 Multiply.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "13 Keep Hydrated/1.0.0": {
+        "runtime": {
+          "13 Keep Hydrated.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "14 Beginner Reduce but Grow/1.0.0": {
+        "runtime": {
+          "14 Beginner Reduce but Grow.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -145,6 +169,21 @@
       "sha512": ""
     },
     "11 Find Maximum and Minimum Values of a List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "12 Multiply/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "13 Keep Hydrated/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "14 Beginner Reduce but Grow/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

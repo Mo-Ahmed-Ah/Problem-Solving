@@ -1,0 +1,12 @@
+G:\Problem-Solving\Codewars\13 Keep Hydrated\bin\Debug\net6.0\13 Keep Hydrated.deps.json
+G:\Problem-Solving\Codewars\13 Keep Hydrated\bin\Debug\net6.0\13 Keep Hydrated.dll
+G:\Problem-Solving\Codewars\13 Keep Hydrated\bin\Debug\net6.0\13 Keep Hydrated.pdb
+G:\Problem-Solving\Codewars\13 Keep Hydrated\obj\Debug\net6.0\13 Keep Hydrated.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem-Solving\Codewars\13 Keep Hydrated\obj\Debug\net6.0\13 Keep Hydrated.AssemblyInfoInputs.cache
+G:\Problem-Solving\Codewars\13 Keep Hydrated\obj\Debug\net6.0\13 Keep Hydrated.AssemblyInfo.cs
+G:\Problem-Solving\Codewars\13 Keep Hydrated\obj\Debug\net6.0\13 Keep Hydrated.csproj.CoreCompileInputs.cache
+G:\Problem-Solving\Codewars\13 Keep Hydrated\obj\Debug\net6.0\13 Keep Hydrated.sourcelink.json
+G:\Problem-Solving\Codewars\13 Keep Hydrated\obj\Debug\net6.0\13 Keep Hydrated.dll
+G:\Problem-Solving\Codewars\13 Keep Hydrated\obj\Debug\net6.0\refint\13 Keep Hydrated.dll
+G:\Problem-Solving\Codewars\13 Keep Hydrated\obj\Debug\net6.0\13 Keep Hydrated.pdb
+G:\Problem-Solving\Codewars\13 Keep Hydrated\obj\Debug\net6.0\ref\13 Keep Hydrated.dll

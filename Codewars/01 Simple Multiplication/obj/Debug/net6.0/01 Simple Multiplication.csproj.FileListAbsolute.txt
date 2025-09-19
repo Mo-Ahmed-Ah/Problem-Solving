@@ -10,3 +10,15 @@ D:\larne\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\01 S
 D:\larne\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\refint\01 Simple Multiplication.dll
 D:\larne\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\01 Simple Multiplication.pdb
 D:\larne\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\ref\01 Simple Multiplication.dll
+G:\Problem-Solving\Codewars\01 Simple Multiplication\bin\Debug\net6.0\01 Simple Multiplication.deps.json
+G:\Problem-Solving\Codewars\01 Simple Multiplication\bin\Debug\net6.0\01 Simple Multiplication.dll
+G:\Problem-Solving\Codewars\01 Simple Multiplication\bin\Debug\net6.0\01 Simple Multiplication.pdb
+G:\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\01 Simple Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\01 Simple Multiplication.AssemblyInfoInputs.cache
+G:\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\01 Simple Multiplication.AssemblyInfo.cs
+G:\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\01 Simple Multiplication.csproj.CoreCompileInputs.cache
+G:\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\01 Simple Multiplication.sourcelink.json
+G:\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\01 Simple Multiplication.dll
+G:\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\refint\01 Simple Multiplication.dll
+G:\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\01 Simple Multiplication.pdb
+G:\Problem-Solving\Codewars\01 Simple Multiplication\obj\Debug\net6.0\ref\01 Simple Multiplication.dll

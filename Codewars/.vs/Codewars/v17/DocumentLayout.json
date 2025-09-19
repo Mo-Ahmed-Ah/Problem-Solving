@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\",
+  "WorkspaceRootPath": "G:\\Problem-Solving\\Codewars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70EBA15A-EEBE-4B2B-A14C-39B20AEF365A}|Test All Project\\Test All Projects.csproj|c:\\users\\ahmoh\\downloads\\problem-solving\\codewars\\test all project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70EBA15A-EEBE-4B2B-A14C-39B20AEF365A}|Test All Project\\Test All Projects.csproj|g:\\problem-solving\\codewars\\test all project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70EBA15A-EEBE-4B2B-A14C-39B20AEF365A}|Test All Project\\Test All Projects.csproj|solutionrelative:test all project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}|13 Keep Hydrated\\13 Keep Hydrated.csproj|c:\\users\\ahmoh\\downloads\\problem-solving\\codewars\\13 keep hydrated\\keephydrated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7568C6D-B5DB-4A69-B55F-1DDD9C7114D2}|13 Keep Hydrated\\13 Keep Hydrated.csproj|solutionrelative:13 keep hydrated\\keephydrated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +26,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KeepHydrated.cs",
-              "DocumentMoniker": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\KeepHydrated.cs",
-              "RelativeDocumentMoniker": "13 Keep Hydrated\\KeepHydrated.cs",
-              "ToolTip": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\KeepHydrated.cs",
-              "RelativeToolTip": "13 Keep Hydrated\\KeepHydrated.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T07:47:59.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
+              "DocumentMoniker": "G:\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
               "RelativeDocumentMoniker": "Test All Project\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
+              "ToolTip": "G:\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
               "RelativeToolTip": "Test All Project\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwC4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAANMAAAAAAAAAAAAAACIBAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T03:48:09.876Z",
               "EditorCaption": ""

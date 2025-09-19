@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "14 Beginner Reduce but Grow/1.0.0": {
+        "runtime": {
+          "14 Beginner Reduce but Grow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14 Beginner Reduce but Grow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

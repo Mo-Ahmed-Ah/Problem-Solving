@@ -10,3 +10,15 @@ D:\larne\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\
 D:\larne\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\refint\03 Is N Divisible By X And Y.dll
 D:\larne\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.pdb
 D:\larne\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\ref\03 Is N Divisible By X And Y.dll
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\bin\Debug\net6.0\03 Is N Divisible By X And Y.deps.json
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\bin\Debug\net6.0\03 Is N Divisible By X And Y.dll
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\bin\Debug\net6.0\03 Is N Divisible By X And Y.pdb
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.AssemblyInfoInputs.cache
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.AssemblyInfo.cs
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.csproj.CoreCompileInputs.cache
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.sourcelink.json
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.dll
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\refint\03 Is N Divisible By X And Y.dll
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.pdb
+G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\ref\03 Is N Divisible By X And Y.dll

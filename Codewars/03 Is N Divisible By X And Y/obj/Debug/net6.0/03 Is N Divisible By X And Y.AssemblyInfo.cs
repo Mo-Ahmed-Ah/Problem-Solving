@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03 Is N Divisible By X And Y")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deaa38054c707efb56151b39478599057f91bbc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53f548be0cb846787329609be451b0fcf579fade")]
 [assembly: System.Reflection.AssemblyProductAttribute("03 Is N Divisible By X And Y")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03 Is N Divisible By X And Y")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
