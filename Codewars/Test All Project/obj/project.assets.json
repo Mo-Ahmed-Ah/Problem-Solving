@@ -131,6 +131,36 @@
         "runtime": {
           "bin/placeholder/14 Beginner Reduce but Grow.dll": {}
         }
+      },
+      "15 Convert a String to a Number!/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/15 Convert a String to a Number!.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/15 Convert a String to a Number!.dll": {}
+        }
+      },
+      "16 Remove First and Last Character/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/16 Remove First and Last Character.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/16 Remove First and Last Character.dll": {}
+        }
+      },
+      "17 All Star Code Challenge/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/17 All Star Code Challenge.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/17 All Star Code Challenge.dll": {}
+        }
       }
     }
   },
@@ -199,6 +229,21 @@
       "type": "project",
       "path": "../14 Beginner Reduce but Grow/14 Beginner Reduce but Grow.csproj",
       "msbuildProject": "../14 Beginner Reduce but Grow/14 Beginner Reduce but Grow.csproj"
+    },
+    "15 Convert a String to a Number!/1.0.0": {
+      "type": "project",
+      "path": "../15 Convert a String to a Number!/15 Convert a String to a Number!.csproj",
+      "msbuildProject": "../15 Convert a String to a Number!/15 Convert a String to a Number!.csproj"
+    },
+    "16 Remove First and Last Character/1.0.0": {
+      "type": "project",
+      "path": "../16 Remove First and Last Character/16 Remove First and Last Character.csproj",
+      "msbuildProject": "../16 Remove First and Last Character/16 Remove First and Last Character.csproj"
+    },
+    "17 All Star Code Challenge/1.0.0": {
+      "type": "project",
+      "path": "../17 All Star Code Challenge/17 All Star Code Challenge.csproj",
+      "msbuildProject": "../17 All Star Code Challenge/17 All Star Code Challenge.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -215,7 +260,10 @@
       "11 Find Maximum and Minimum Values of a List >= 1.0.0",
       "12 Multiply >= 1.0.0",
       "13 Keep Hydrated >= 1.0.0",
-      "14 Beginner Reduce but Grow >= 1.0.0"
+      "14 Beginner Reduce but Grow >= 1.0.0",
+      "15 Convert a String to a Number! >= 1.0.0",
+      "16 Remove First and Last Character >= 1.0.0",
+      "17 All Star Code Challenge >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -288,6 +336,15 @@
             },
             "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj": {
               "projectPath": "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj"
+            },
+            "G:\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj": {
+              "projectPath": "G:\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj"
+            },
+            "G:\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj": {
+              "projectPath": "G:\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj"
+            },
+            "G:\\Problem-Solving\\Codewars\\17 All Star Code Challenge\\17 All Star Code Challenge.csproj": {
+              "projectPath": "G:\\Problem-Solving\\Codewars\\17 All Star Code Challenge\\17 All Star Code Challenge.csproj"
             }
           }
         }

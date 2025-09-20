@@ -1,0 +1,12 @@
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\bin\Debug\net6.0\15 Convert a String to a Number!.deps.json
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\bin\Debug\net6.0\15 Convert a String to a Number!.dll
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\bin\Debug\net6.0\15 Convert a String to a Number!.pdb
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\obj\Debug\net6.0\15 Convert a String to a Number!.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\obj\Debug\net6.0\15 Convert a String to a Number!.AssemblyInfoInputs.cache
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\obj\Debug\net6.0\15 Convert a String to a Number!.AssemblyInfo.cs
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\obj\Debug\net6.0\15 Convert a String to a Number!.csproj.CoreCompileInputs.cache
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\obj\Debug\net6.0\15 Convert a String to a Number!.sourcelink.json
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\obj\Debug\net6.0\15 Convert a String to a Number!.dll
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\obj\Debug\net6.0\refint\15 Convert a String to a Number!.dll
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\obj\Debug\net6.0\15 Convert a String to a Number!.pdb
+G:\Problem-Solving\Codewars\15 Convert a String to a Number!\obj\Debug\net6.0\ref\15 Convert a String to a Number!.dll

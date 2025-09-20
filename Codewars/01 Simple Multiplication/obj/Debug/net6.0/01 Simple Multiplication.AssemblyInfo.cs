@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01 Simple Multiplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53f548be0cb846787329609be451b0fcf579fade")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c6c33cde2465e83947590d5a0e43cccf69ecf60")]
 [assembly: System.Reflection.AssemblyProductAttribute("01 Simple Multiplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01 Simple Multiplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

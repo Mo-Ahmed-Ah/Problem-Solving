@@ -114,6 +114,22 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "15 Convert a String to a Number!/1.0.0": {
+        "runtime": {
+          "15 Convert a String to a Number!.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "16 Remove First and Last Character/1.0.0": {
+        "runtime": {
+          "16 Remove First and Last Character.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -184,6 +200,16 @@
       "sha512": ""
     },
     "14 Beginner Reduce but Grow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "15 Convert a String to a Number!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "16 Remove First and Last Character/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

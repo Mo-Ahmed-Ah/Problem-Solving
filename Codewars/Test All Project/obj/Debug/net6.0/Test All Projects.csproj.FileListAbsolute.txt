@@ -78,3 +78,7 @@ G:\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\refint\Test All Pr
 G:\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.pdb
 G:\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.genruntimeconfig.cache
 G:\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\ref\Test All Projects.dll
+G:\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\15 Convert a String to a Number!.dll
+G:\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\15 Convert a String to a Number!.pdb
+G:\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\16 Remove First and Last Character.dll
+G:\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\16 Remove First and Last Character.pdb

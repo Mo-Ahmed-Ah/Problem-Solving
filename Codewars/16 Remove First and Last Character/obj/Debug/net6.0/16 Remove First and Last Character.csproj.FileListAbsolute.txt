@@ -1,0 +1,12 @@
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\bin\Debug\net6.0\16 Remove First and Last Character.deps.json
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\bin\Debug\net6.0\16 Remove First and Last Character.dll
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\bin\Debug\net6.0\16 Remove First and Last Character.pdb
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\obj\Debug\net6.0\16 Remove First and Last Character.GeneratedMSBuildEditorConfig.editorconfig
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\obj\Debug\net6.0\16 Remove First and Last Character.AssemblyInfoInputs.cache
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\obj\Debug\net6.0\16 Remove First and Last Character.AssemblyInfo.cs
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\obj\Debug\net6.0\16 Remove First and Last Character.csproj.CoreCompileInputs.cache
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\obj\Debug\net6.0\16 Remove First and Last Character.sourcelink.json
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\obj\Debug\net6.0\16 Remove First and Last Character.dll
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\obj\Debug\net6.0\refint\16 Remove First and Last Character.dll
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\obj\Debug\net6.0\16 Remove First and Last Character.pdb
+G:\Problem-Solving\Codewars\16 Remove First and Last Character\obj\Debug\net6.0\ref\16 Remove First and Last Character.dll

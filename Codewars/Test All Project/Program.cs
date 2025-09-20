@@ -11,6 +11,9 @@ using _11_Find_Maximum_and_Minimum_Values_of_a_List;
 using _12_Multiply;
 using _13_Keep_Hydrated;
 using _14_Beginner_Reduce_but_Grow;
+using _15_Convert_a_String_to_a_Number_;
+using _16_Remove_First_and_Last_Character;
+using _17_All_Star_Code_Challenge;
 
 
 namespace Test_All_Projects
@@ -38,7 +41,10 @@ namespace Test_All_Projects
                 Console.WriteLine("12 : Multiply.");
                 Console.WriteLine("13 : Calculate what do you want to drink Litres of water");
                 Console.WriteLine("14 : Calculate multiplication of array items");
-                Console.Write("Enter project number (01-14) or 'exit' to quit: ");
+                Console.WriteLine("15 : Convert A String To A Number.");
+                Console.WriteLine("16 : Remove First And Last Character.");
+                Console.WriteLine("17 : All Star Code Challenge.");
+                Console.Write("Enter project number (01-17) or 'exit' to quit: ");
                 #endregion
 
                 #region Input and Validation 
@@ -296,6 +302,60 @@ namespace Test_All_Projects
                             {
                                 Console.WriteLine("Invalid input. Please enter valid integers separated by spaces.");
                             }
+                        }
+                        break;
+                    case 15:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter a string to convert to a number: ");
+                            string str = Console.ReadLine();
+                            try
+                            { 
+                                Console.WriteLine($"The string '{str}' converted to number is: {ConvertAStringToANumber.StringToNumber(str)}");
+                                break;
+                            }
+                            catch
+                            {
+                                Console.WriteLine("Invalid input. Please enter a valid string that represents a number.");
+                            }
+                        }
+                        break;
+                    case 16:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter a string to remove the first and last character: ");
+                            string str = Console.ReadLine();
+                            if (str is not null)
+                            {
+                                Console.WriteLine($"The string after removing the first and last character is: {RemoveFirstAndLastCharacter.Remove_char(str)}");
+                                break;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Invalid input. Please enter a valid string.");
+                            }
+                        }
+                        break;
+                    case 17:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter a string : ");
+                            string str = Console.ReadLine();
+                            Console.Write("Enter a character : ");
+                            char ch = Console.ReadLine()[0];
+                            if (str is not null)
+                            {
+                                Console.WriteLine($"The {ch} repeated {AllStarCodeChallenge.StrCount(str, ch)}");
+                                break;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Invalid input. Please enter a valid string.");
+                            }
+
                         }
                         break;
                     default: break;
