@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Problem-Solving\\Codewars\\",
+  "WorkspaceRootPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70EBA15A-EEBE-4B2B-A14C-39B20AEF365A}|Test All Project\\Test All Projects.csproj|g:\\problem-solving\\codewars\\test all project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EBA15A-EEBE-4B2B-A14C-39B20AEF365A}|Test All Project\\Test All Projects.csproj|solutionrelative:test all project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9C42A6D-6800-430B-BD25-D9931F7619F1}|18 Beginner Series #2 Clock\\18 Beginner Series #2 Clock.csproj|c:\\users\\ahmoh\\downloads\\problem-solving\\codewars\\18 beginner series #2 clock\\beginnerseries2clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C42A6D-6800-430B-BD25-D9931F7619F1}|18 Beginner Series #2 Clock\\18 Beginner Series #2 Clock.csproj|solutionrelative:18 beginner series #2 clock\\beginnerseries2clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{727D50B9-DA22-4043-A77F-174E888C2133}|17 All Star Code Challenge\\17 All Star Code Challenge.csproj|g:\\problem-solving\\codewars\\17 all star code challenge\\allstarcodechallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{727D50B9-DA22-4043-A77F-174E888C2133}|17 All Star Code Challenge\\17 All Star Code Challenge.csproj|solutionrelative:17 all star code challenge\\allstarcodechallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70EBA15A-EEBE-4B2B-A14C-39B20AEF365A}|Test All Project\\Test All Projects.csproj|c:\\users\\ahmoh\\downloads\\problem-solving\\codewars\\test all project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EBA15A-EEBE-4B2B-A14C-39B20AEF365A}|Test All Project\\Test All Projects.csproj|solutionrelative:test all project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AllStarCodeChallenge.cs",
-              "DocumentMoniker": "G:\\Problem-Solving\\Codewars\\17 All Star Code Challenge\\AllStarCodeChallenge.cs",
-              "RelativeDocumentMoniker": "17 All Star Code Challenge\\AllStarCodeChallenge.cs",
-              "ToolTip": "G:\\Problem-Solving\\Codewars\\17 All Star Code Challenge\\AllStarCodeChallenge.cs",
-              "RelativeToolTip": "17 All Star Code Challenge\\AllStarCodeChallenge.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BeginnerSeries2Clock.cs",
+              "DocumentMoniker": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\18 Beginner Series #2 Clock\\BeginnerSeries2Clock.cs",
+              "RelativeDocumentMoniker": "18 Beginner Series #2 Clock\\BeginnerSeries2Clock.cs",
+              "ToolTip": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\18 Beginner Series #2 Clock\\BeginnerSeries2Clock.cs",
+              "RelativeToolTip": "18 Beginner Series #2 Clock\\BeginnerSeries2Clock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T05:22:50.268Z",
+              "WhenOpened": "2025-09-21T10:08:26.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
               "RelativeDocumentMoniker": "Test All Project\\Program.cs",
-              "ToolTip": "G:\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Program.cs",
               "RelativeToolTip": "Test All Project\\Program.cs",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAAAFQBAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADQBAAAAAAAAAAAAAIsBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T03:48:09.876Z",
               "EditorCaption": ""

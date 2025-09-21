@@ -130,6 +130,22 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "17 All Star Code Challenge/1.0.0": {
+        "runtime": {
+          "17 All Star Code Challenge.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "18 Beginner Series #2 Clock/1.0.0": {
+        "runtime": {
+          "18 Beginner Series #2 Clock.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -210,6 +226,16 @@
       "sha512": ""
     },
     "16 Remove First and Last Character/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "17 All Star Code Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "18 Beginner Series #2 Clock/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

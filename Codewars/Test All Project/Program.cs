@@ -14,6 +14,7 @@ using _14_Beginner_Reduce_but_Grow;
 using _15_Convert_a_String_to_a_Number_;
 using _16_Remove_First_and_Last_Character;
 using _17_All_Star_Code_Challenge;
+using _18_Beginner_Series__2_Clock;
 
 
 namespace Test_All_Projects
@@ -44,7 +45,8 @@ namespace Test_All_Projects
                 Console.WriteLine("15 : Convert A String To A Number.");
                 Console.WriteLine("16 : Remove First And Last Character.");
                 Console.WriteLine("17 : All Star Code Challenge.");
-                Console.Write("Enter project number (01-17) or 'exit' to quit: ");
+                Console.WriteLine("18 : Beginner Series 2 Clock");
+                Console.Write("Enter project number (01-18) or 'exit' to quit: ");
                 #endregion
 
                 #region Input and Validation 
@@ -356,6 +358,27 @@ namespace Test_All_Projects
                                 Console.WriteLine("Invalid input. Please enter a valid string.");
                             }
 
+                        }
+                        break;
+                    case 18:
+                        while (true)
+                        {
+                            Console.Clear();
+                            Console.Write("Enter the hours (0-23): ");
+                            bool isHoursValid = int.TryParse(Console.ReadLine(), out var hours);
+                            Console.Write("Enter the minutes (0-59): ");
+                            bool isMinutesValid = int.TryParse(Console.ReadLine(), out var minutes);
+                            Console.Write("Enter the seconds (0-59): ");
+                            bool isSecondsValid = int.TryParse(Console.ReadLine(), out var seconds);
+                            if (isHoursValid && isMinutesValid && isSecondsValid)
+                            {
+                                Console.WriteLine($"The time in seconds is: {BeginnerSeries2Clock.Past(hours, minutes, seconds)}");
+                                break;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Invalid input. Please enter valid integers for hours, minutes, and seconds.");
+                            }
                         }
                         break;
                     default: break;

@@ -22,3 +22,15 @@ G:\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Str
 G:\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\refint\05 Reversed Strings.dll
 G:\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.pdb
 G:\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\ref\05 Reversed Strings.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\bin\Debug\net6.0\05 Reversed Strings.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\bin\Debug\net6.0\05 Reversed Strings.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\bin\Debug\net6.0\05 Reversed Strings.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\refint\05 Reversed Strings.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\05 Reversed Strings.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\05 Reversed Strings\obj\Debug\net6.0\ref\05 Reversed Strings.dll

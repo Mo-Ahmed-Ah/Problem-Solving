@@ -1,0 +1,12 @@
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\bin\Debug\net6.0\18 Beginner Series #2 Clock.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\bin\Debug\net6.0\18 Beginner Series #2 Clock.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\bin\Debug\net6.0\18 Beginner Series #2 Clock.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\obj\Debug\net6.0\18 Beginner Series #2 Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\obj\Debug\net6.0\18 Beginner Series #2 Clock.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\obj\Debug\net6.0\18 Beginner Series #2 Clock.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\obj\Debug\net6.0\18 Beginner Series #2 Clock.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\obj\Debug\net6.0\18 Beginner Series #2 Clock.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\obj\Debug\net6.0\18 Beginner Series #2 Clock.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\obj\Debug\net6.0\refint\18 Beginner Series #2 Clock.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\obj\Debug\net6.0\18 Beginner Series #2 Clock.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\18 Beginner Series #2 Clock\obj\Debug\net6.0\ref\18 Beginner Series #2 Clock.dll

@@ -22,3 +22,15 @@ G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century Fro
 G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\refint\02 Century From Year.dll
 G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.pdb
 G:\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\ref\02 Century From Year.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\bin\Debug\net6.0\02 Century From Year.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\bin\Debug\net6.0\02 Century From Year.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\bin\Debug\net6.0\02 Century From Year.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\refint\02 Century From Year.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\02 Century From Year.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\02 Century From Year\obj\Debug\net6.0\ref\02 Century From Year.dll

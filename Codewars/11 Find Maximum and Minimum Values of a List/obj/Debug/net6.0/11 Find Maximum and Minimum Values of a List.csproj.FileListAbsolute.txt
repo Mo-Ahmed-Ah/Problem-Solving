@@ -22,3 +22,15 @@ G:\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Deb
 G:\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\refint\11 Find Maximum and Minimum Values of a List.dll
 G:\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\11 Find Maximum and Minimum Values of a List.pdb
 G:\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\ref\11 Find Maximum and Minimum Values of a List.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\bin\Debug\net6.0\11 Find Maximum and Minimum Values of a List.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\bin\Debug\net6.0\11 Find Maximum and Minimum Values of a List.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\bin\Debug\net6.0\11 Find Maximum and Minimum Values of a List.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\11 Find Maximum and Minimum Values of a List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\11 Find Maximum and Minimum Values of a List.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\11 Find Maximum and Minimum Values of a List.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\11 Find Maximum and Minimum Values of a List.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\11 Find Maximum and Minimum Values of a List.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\11 Find Maximum and Minimum Values of a List.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\refint\11 Find Maximum and Minimum Values of a List.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\11 Find Maximum and Minimum Values of a List.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\11 Find Maximum and Minimum Values of a List\obj\Debug\net6.0\ref\11 Find Maximum and Minimum Values of a List.dll

@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 Remove First and Last Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 All Star Code Challenge", "17 All Star Code Challenge\17 All Star Code Challenge.csproj", "{727D50B9-DA22-4043-A77F-174E888C2133}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18 Beginner Series #2 Clock", "18 Beginner Series #2 Clock\18 Beginner Series #2 Clock.csproj", "{C9C42A6D-6800-430B-BD25-D9931F7619F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{727D50B9-DA22-4043-A77F-174E888C2133}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{727D50B9-DA22-4043-A77F-174E888C2133}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{727D50B9-DA22-4043-A77F-174E888C2133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C42A6D-6800-430B-BD25-D9931F7619F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C42A6D-6800-430B-BD25-D9931F7619F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C42A6D-6800-430B-BD25-D9931F7619F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C42A6D-6800-430B-BD25-D9931F7619F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj": {}
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj": {}
   },
   "projects": {
-    "G:\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj": {
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj",
+        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj",
         "projectName": "16 Remove First and Last Character",
-        "projectPath": "G:\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj",
+        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "G:\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\obj\\",
+        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

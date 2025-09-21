@@ -22,3 +22,15 @@ G:\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.dll
 G:\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\refint\04 Even Or Odd.dll
 G:\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.pdb
 G:\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\ref\04 Even Or Odd.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\bin\Debug\net6.0\04 Even Or Odd.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\bin\Debug\net6.0\04 Even Or Odd.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\bin\Debug\net6.0\04 Even Or Odd.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\refint\04 Even Or Odd.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\04 Even Or Odd.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\04 Even Or Odd\obj\Debug\net6.0\ref\04 Even Or Odd.dll

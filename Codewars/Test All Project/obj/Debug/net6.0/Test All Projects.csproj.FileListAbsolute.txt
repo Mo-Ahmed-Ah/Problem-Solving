@@ -82,3 +82,54 @@ G:\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\15 Convert a Strin
 G:\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\15 Convert a String to a Number!.pdb
 G:\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\16 Remove First and Last Character.dll
 G:\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\16 Remove First and Last Character.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.exe
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.runtimeconfig.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\Test All Projects.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\01 Simple Multiplication.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\02 Century From Year.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\03 Is N Divisible By X And Y.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\04 Even Or Odd.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\05 Reversed Strings.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\07 Price of Mangoes.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\08 Cat years, Dog years.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\09 Invert Values.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\10 Remove exclamation marks.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\11 Find Maximum and Minimum Values of a List.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\12 Multiply.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\13 Keep Hydrated.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\14 Beginner Reduce but Grow.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\15 Convert a String to a Number!.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\16 Remove First and Last Character.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\17 All Star Code Challenge.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\18 Beginner Series #2 Clock.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\01 Simple Multiplication.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\02 Century From Year.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\03 Is N Divisible By X And Y.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\04 Even Or Odd.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\05 Reversed Strings.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\07 Price of Mangoes.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\08 Cat years, Dog years.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\09 Invert Values.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\10 Remove exclamation marks.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\11 Find Maximum and Minimum Values of a List.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\12 Multiply.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\13 Keep Hydrated.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\14 Beginner Reduce but Grow.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\15 Convert a String to a Number!.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\16 Remove First and Last Character.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\17 All Star Code Challenge.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\bin\Debug\net6.0\18 Beginner Series #2 Clock.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.csproj.AssemblyReference.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All.C9D250E2.Up2Date
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\refint\Test All Projects.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\Test All Projects.genruntimeconfig.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\Test All Project\obj\Debug\net6.0\ref\Test All Projects.dll

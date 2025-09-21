@@ -161,6 +161,16 @@
         "runtime": {
           "bin/placeholder/17 All Star Code Challenge.dll": {}
         }
+      },
+      "18 Beginner Series #2 Clock/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/18 Beginner Series #2 Clock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/18 Beginner Series #2 Clock.dll": {}
+        }
       }
     }
   },
@@ -244,6 +254,11 @@
       "type": "project",
       "path": "../17 All Star Code Challenge/17 All Star Code Challenge.csproj",
       "msbuildProject": "../17 All Star Code Challenge/17 All Star Code Challenge.csproj"
+    },
+    "18 Beginner Series #2 Clock/1.0.0": {
+      "type": "project",
+      "path": "../18 Beginner Series #2 Clock/18 Beginner Series #2 Clock.csproj",
+      "msbuildProject": "../18 Beginner Series #2 Clock/18 Beginner Series #2 Clock.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -263,7 +278,8 @@
       "14 Beginner Reduce but Grow >= 1.0.0",
       "15 Convert a String to a Number! >= 1.0.0",
       "16 Remove First and Last Character >= 1.0.0",
-      "17 All Star Code Challenge >= 1.0.0"
+      "17 All Star Code Challenge >= 1.0.0",
+      "18 Beginner Series #2 Clock >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -273,11 +289,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
+      "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
       "projectName": "Test All Projects",
-      "projectPath": "G:\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
+      "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\Test All Projects.csproj",
       "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-      "outputPath": "G:\\Problem-Solving\\Codewars\\Test All Project\\obj\\",
+      "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\Test All Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -298,53 +314,56 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\01 Simple Multiplication\\01 Simple Multiplication.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\03 Is N Divisible By X And Y\\03 Is N Divisible By X And Y.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\04 Even Or Odd\\04 Even Or Odd.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\05 Reversed Strings\\05 Reversed Strings.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\07 Price of Mangoes\\07 Price of Mangoes.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\10 Remove exclamation marks\\10 Remove exclamation marks.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\11 Find Maximum and Minimum Values of a List\\11 Find Maximum and Minimum Values of a List.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\12 Multiply\\12 Multiply.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\13 Keep Hydrated\\13 Keep Hydrated.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\16 Remove First and Last Character\\16 Remove First and Last Character.csproj"
             },
-            "G:\\Problem-Solving\\Codewars\\17 All Star Code Challenge\\17 All Star Code Challenge.csproj": {
-              "projectPath": "G:\\Problem-Solving\\Codewars\\17 All Star Code Challenge\\17 All Star Code Challenge.csproj"
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\17 All Star Code Challenge\\17 All Star Code Challenge.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\17 All Star Code Challenge\\17 All Star Code Challenge.csproj"
+            },
+            "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\18 Beginner Series #2 Clock\\18 Beginner Series #2 Clock.csproj": {
+              "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\18 Beginner Series #2 Clock\\18 Beginner Series #2 Clock.csproj"
             }
           }
         }

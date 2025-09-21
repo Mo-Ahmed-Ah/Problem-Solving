@@ -25,6 +25,7 @@
     <ProjectReference Include="..\15 Convert a String to a Number!\15 Convert a String to a Number!.csproj" />
     <ProjectReference Include="..\16 Remove First and Last Character\16 Remove First and Last Character.csproj" />
     <ProjectReference Include="..\17 All Star Code Challenge\17 All Star Code Challenge.csproj" />
+    <ProjectReference Include="..\18 Beginner Series #2 Clock\18 Beginner Series #2 Clock.csproj" />
   </ItemGroup>
 
 </Project>

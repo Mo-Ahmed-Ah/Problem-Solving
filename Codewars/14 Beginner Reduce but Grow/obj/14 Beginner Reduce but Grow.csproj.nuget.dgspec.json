@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj": {}
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj": {}
   },
   "projects": {
-    "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj": {
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj",
+        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj",
         "projectName": "14 Beginner Reduce but Grow",
-        "projectPath": "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj",
+        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\14 Beginner Reduce but Grow.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "G:\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\obj\\",
+        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\14 Beginner Reduce but Grow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

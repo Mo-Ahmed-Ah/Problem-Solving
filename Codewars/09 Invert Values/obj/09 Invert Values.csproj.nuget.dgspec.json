@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {}
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {}
   },
   "projects": {
-    "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj",
+        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj",
         "projectName": "09 Invert Values",
-        "projectPath": "G:\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj",
+        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\09 Invert Values.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "G:\\Problem-Solving\\Codewars\\09 Invert Values\\obj\\",
+        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\09 Invert Values\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

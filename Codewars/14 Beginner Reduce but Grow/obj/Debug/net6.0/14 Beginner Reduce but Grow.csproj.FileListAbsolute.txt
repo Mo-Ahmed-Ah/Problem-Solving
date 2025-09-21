@@ -10,3 +10,15 @@ G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Begi
 G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\refint\14 Beginner Reduce but Grow.dll
 G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.pdb
 G:\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\ref\14 Beginner Reduce but Grow.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\bin\Debug\net6.0\14 Beginner Reduce but Grow.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\bin\Debug\net6.0\14 Beginner Reduce but Grow.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\bin\Debug\net6.0\14 Beginner Reduce but Grow.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\refint\14 Beginner Reduce but Grow.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\14 Beginner Reduce but Grow.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\14 Beginner Reduce but Grow\obj\Debug\net6.0\ref\14 Beginner Reduce but Grow.dll

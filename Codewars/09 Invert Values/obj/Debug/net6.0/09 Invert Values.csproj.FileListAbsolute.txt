@@ -22,3 +22,15 @@ G:\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.d
 G:\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\refint\09 Invert Values.dll
 G:\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.pdb
 G:\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\ref\09 Invert Values.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\bin\Debug\net6.0\09 Invert Values.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\bin\Debug\net6.0\09 Invert Values.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\bin\Debug\net6.0\09 Invert Values.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\refint\09 Invert Values.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\09 Invert Values.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\09 Invert Values\obj\Debug\net6.0\ref\09 Invert Values.dll

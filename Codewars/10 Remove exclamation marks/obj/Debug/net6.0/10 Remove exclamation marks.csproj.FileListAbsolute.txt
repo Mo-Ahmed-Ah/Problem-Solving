@@ -22,3 +22,15 @@ G:\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\10 Remo
 G:\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\refint\10 Remove exclamation marks.dll
 G:\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\10 Remove exclamation marks.pdb
 G:\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\ref\10 Remove exclamation marks.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\bin\Debug\net6.0\10 Remove exclamation marks.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\bin\Debug\net6.0\10 Remove exclamation marks.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\bin\Debug\net6.0\10 Remove exclamation marks.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\10 Remove exclamation marks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\10 Remove exclamation marks.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\10 Remove exclamation marks.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\10 Remove exclamation marks.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\10 Remove exclamation marks.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\10 Remove exclamation marks.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\refint\10 Remove exclamation marks.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\10 Remove exclamation marks.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\10 Remove exclamation marks\obj\Debug\net6.0\ref\10 Remove exclamation marks.dll

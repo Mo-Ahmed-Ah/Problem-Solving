@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {}
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {}
   },
   "projects": {
-    "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
+        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
         "projectName": "02 Century From Year",
-        "projectPath": "G:\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
+        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\02 Century From Year.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "G:\\Problem-Solving\\Codewars\\02 Century From Year\\obj\\",
+        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\02 Century From Year\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

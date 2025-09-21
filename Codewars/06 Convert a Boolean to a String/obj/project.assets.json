@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Problem-Solving\\Codewars\\06 Convert a Boolean to a String\\06 Convert a Boolean to a String.csproj",
+      "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\06 Convert a Boolean to a String\\06 Convert a Boolean to a String.csproj",
       "projectName": "06 Convert a Boolean to a String",
-      "projectPath": "G:\\Problem-Solving\\Codewars\\06 Convert a Boolean to a String\\06 Convert a Boolean to a String.csproj",
+      "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\06 Convert a Boolean to a String\\06 Convert a Boolean to a String.csproj",
       "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-      "outputPath": "G:\\Problem-Solving\\Codewars\\06 Convert a Boolean to a String\\obj\\",
+      "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\06 Convert a Boolean to a String\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

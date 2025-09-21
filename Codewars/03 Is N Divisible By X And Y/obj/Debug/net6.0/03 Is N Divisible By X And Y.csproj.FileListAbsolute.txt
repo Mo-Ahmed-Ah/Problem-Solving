@@ -22,3 +22,15 @@ G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is 
 G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\refint\03 Is N Divisible By X And Y.dll
 G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.pdb
 G:\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\ref\03 Is N Divisible By X And Y.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\bin\Debug\net6.0\03 Is N Divisible By X And Y.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\bin\Debug\net6.0\03 Is N Divisible By X And Y.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\bin\Debug\net6.0\03 Is N Divisible By X And Y.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\refint\03 Is N Divisible By X And Y.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\03 Is N Divisible By X And Y.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\03 Is N Divisible By X And Y\obj\Debug\net6.0\ref\03 Is N Divisible By X And Y.dll

@@ -1,0 +1,12 @@
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\bin\Debug\net6.0\17 All Star Code Challenge.deps.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\bin\Debug\net6.0\17 All Star Code Challenge.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\bin\Debug\net6.0\17 All Star Code Challenge.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\obj\Debug\net6.0\17 All Star Code Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\obj\Debug\net6.0\17 All Star Code Challenge.AssemblyInfoInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\obj\Debug\net6.0\17 All Star Code Challenge.AssemblyInfo.cs
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\obj\Debug\net6.0\17 All Star Code Challenge.csproj.CoreCompileInputs.cache
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\obj\Debug\net6.0\17 All Star Code Challenge.sourcelink.json
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\obj\Debug\net6.0\17 All Star Code Challenge.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\obj\Debug\net6.0\refint\17 All Star Code Challenge.dll
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\obj\Debug\net6.0\17 All Star Code Challenge.pdb
+C:\Users\ahmoh\Downloads\Problem-Solving\Codewars\17 All Star Code Challenge\obj\Debug\net6.0\ref\17 All Star Code Challenge.dll

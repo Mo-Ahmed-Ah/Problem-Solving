@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {}
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {}
   },
   "projects": {
-    "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj",
+        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj",
         "projectName": "08 Cat years, Dog years",
-        "projectPath": "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj",
+        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\08 Cat years, Dog years.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "G:\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\obj\\",
+        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\08 Cat years, Dog years\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

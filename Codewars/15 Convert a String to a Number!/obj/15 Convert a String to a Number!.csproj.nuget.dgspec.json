@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj": {}
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj": {}
   },
   "projects": {
-    "G:\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj": {
+    "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj",
+        "projectUniqueName": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj",
         "projectName": "15 Convert a String to a Number!",
-        "projectPath": "G:\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj",
+        "projectPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\15 Convert a String to a Number!.csproj",
         "packagesPath": "C:\\Users\\ahmoh\\.nuget\\packages\\",
-        "outputPath": "G:\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\obj\\",
+        "outputPath": "C:\\Users\\ahmoh\\Downloads\\Problem-Solving\\Codewars\\15 Convert a String to a Number!\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
